@@ -1,0 +1,1 @@
+This repository containts the simulation files and data for my doctoral dissertataion "Data-Driven and Robust Predictive Control and Optimization with applications to building energy management". The files and data are organized for each chapter of the dissertation. (The research data and files for Chapter 3 are under embarge, so not provided).
